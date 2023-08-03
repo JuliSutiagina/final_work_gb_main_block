@@ -1,0 +1,15 @@
+C:\Users\Юленька\Desktop\GB\Контрольная работа GB основной блок\bin\Debug\net7.0\Контрольная работа GB основной блок.exe
+C:\Users\Юленька\Desktop\GB\Контрольная работа GB основной блок\bin\Debug\net7.0\Контрольная работа GB основной блок.deps.json
+C:\Users\Юленька\Desktop\GB\Контрольная работа GB основной блок\bin\Debug\net7.0\Контрольная работа GB основной блок.runtimeconfig.json
+C:\Users\Юленька\Desktop\GB\Контрольная работа GB основной блок\bin\Debug\net7.0\Контрольная работа GB основной блок.dll
+C:\Users\Юленька\Desktop\GB\Контрольная работа GB основной блок\bin\Debug\net7.0\Контрольная работа GB основной блок.pdb
+C:\Users\Юленька\Desktop\GB\Контрольная работа GB основной блок\obj\Debug\net7.0\Контрольная работа GB основной блок.csproj.AssemblyReference.cache
+C:\Users\Юленька\Desktop\GB\Контрольная работа GB основной блок\obj\Debug\net7.0\Контрольная работа GB основной блок.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юленька\Desktop\GB\Контрольная работа GB основной блок\obj\Debug\net7.0\Контрольная работа GB основной блок.AssemblyInfoInputs.cache
+C:\Users\Юленька\Desktop\GB\Контрольная работа GB основной блок\obj\Debug\net7.0\Контрольная работа GB основной блок.AssemblyInfo.cs
+C:\Users\Юленька\Desktop\GB\Контрольная работа GB основной блок\obj\Debug\net7.0\Контрольная работа GB основной блок.csproj.CoreCompileInputs.cache
+C:\Users\Юленька\Desktop\GB\Контрольная работа GB основной блок\obj\Debug\net7.0\Контрольная работа GB основной блок.dll
+C:\Users\Юленька\Desktop\GB\Контрольная работа GB основной блок\obj\Debug\net7.0\refint\Контрольная работа GB основной блок.dll
+C:\Users\Юленька\Desktop\GB\Контрольная работа GB основной блок\obj\Debug\net7.0\Контрольная работа GB основной блок.pdb
+C:\Users\Юленька\Desktop\GB\Контрольная работа GB основной блок\obj\Debug\net7.0\Контрольная работа GB основной блок.genruntimeconfig.cache
+C:\Users\Юленька\Desktop\GB\Контрольная работа GB основной блок\obj\Debug\net7.0\ref\Контрольная работа GB основной блок.dll
